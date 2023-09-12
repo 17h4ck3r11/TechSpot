@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Commands to run before starting the App
+
+### `npm install react-router-dom@5`
+### `npx json-server --watch data/db.json --port 8000`
+
 ### `npm start`
 
 Runs the app in the development mode.\
